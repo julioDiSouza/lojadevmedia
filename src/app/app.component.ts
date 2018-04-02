@@ -9,7 +9,7 @@ import { Produto } from './Produto';
 export class AppComponent {
   lstComidas: Produto[] = [];
 
-  title = 'app works!';
+  title = 'app works!!!';
 
   constructor(){
     let p = new Produto();
