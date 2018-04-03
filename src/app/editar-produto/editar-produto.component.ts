@@ -20,8 +20,10 @@ export class EditarProdutoComponent implements OnInit {
     this.produto = new Produto();
     this.produto.id = 1;
     this.produto.nome = "Macarrão";
+  }
 
-
+  get debug (){
+    return JSON.stringify(this.produto);
   }
 
   salvar(){
