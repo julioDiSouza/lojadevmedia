@@ -1,6 +1,6 @@
 # LojaDevmedia
 
-Concluído: 7
+Concluído: 8
 https://www.devmedia.com.br/view/viewaula.php?idcomp=37956
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
